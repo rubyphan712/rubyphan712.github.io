@@ -1,0 +1,8 @@
+<!-- Applause Button -->
+{% if page.applause_button %}
+<div class="mb6">
+  <applause-button 
+    color={{ site.accent_color | default:'rgb(79,177,186)' }}>
+  </applause-button>
+</div> 
+{% endif %}
