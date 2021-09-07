@@ -10,6 +10,9 @@ mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
+# Multilanguage
+lang: en
+
 # Authors
 authors:
   ruby:
