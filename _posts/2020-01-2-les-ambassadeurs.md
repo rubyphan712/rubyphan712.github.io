@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
 author: ruby
 categories: [ Lifestyle ]
